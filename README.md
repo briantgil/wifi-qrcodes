@@ -1,4 +1,8 @@
-# WiFi QR Code
+# WiFi QR Codes
+
+## Description
+WiFi QR Code Generator
+
 ### QR code definition for WiFi connection string:
 
 WIFI:S:< SSID >;T:< WPA|WEP >;P:< password >;[H:< true|false| >];
@@ -14,3 +18,6 @@ WIFI:S:< SSID >;T:< WPA|WEP >;P:< password >;[H:< true|false| >];
 2. Generate QR Code:
     1. Choose text type and enter the WIFI string replaced with your connection information
     2. Or Choose WIFI type, enter WIFI connection information, and click GENERATE QR CODE
+
+## Roadmap
+- Ruby
